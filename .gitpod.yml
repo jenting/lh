@@ -1,0 +1,6 @@
+additionalRepositories:
+  - url: https://github.com/longhorn/longhorn-manager.git
+  - url: https://github.com/longhorn/longhorn-engine.git
+  - url: https://github.com/longhorn/backing-image-manager.git
+  - url: https://github.com/longhorn/longhorn-share-manager.git
+  - url: https://github.com/longhorn/longhorn-instance-manager.git
